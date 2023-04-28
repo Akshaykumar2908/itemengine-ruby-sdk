@@ -1,0 +1,18 @@
+.idea/
+.rakeTasks
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+/vendor/
+
+# rspec failure tracking
+.rspec_status
+
+# lock file
+Gemfile.lock
+.DS_Store
